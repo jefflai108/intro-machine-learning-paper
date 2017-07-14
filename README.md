@@ -7,12 +7,18 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - CMU ML: http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
 - CMU MLSP: http://mlsp.cs.cmu.edu/courses/fall2016/index.html
 
+## Basic Neural Network 
+- Andrew Ng Coursera: https://www.coursera.org/learn/machine-learning
+- RNN+LSTM: [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/phd.pdf)
+- Stanford CS231n: http://cs231n.stanford.edu
+
 ## GMM 
 - CS 274A: http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes5b
 
 ## i-vector 
 - Najim's i-vector: [Front-End Factor Analysis for Speaker Verification](http://ieeexplore.ieee.org/document/5545402/)
 - i-vector tutorial: http://people.csail.mit.edu/sshum/talks/ivector_tutorial_interspeech_27Aug2011.pdf
+- Stephen Shum: [Unsupervised Methods for Speaker Diarization](http://people.csail.mit.edu/sshum/papers/ieee_diarization_final_proof.pdf)
 
 ## PLDA 
 - Prince's PLDA: [Probabilistic Linear Discriminant Analysis for Inferences About Identity](http://ieeexplore.ieee.org/abstract/document/4409052/)
