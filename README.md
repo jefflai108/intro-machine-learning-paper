@@ -7,8 +7,8 @@ Jeff Miller's Machine Learning Youtube Tutorial: https://www.youtube.com/playlis
 Bishop's Pattern Recognition and Machine Learning: http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
 ## i-vector 
--Najim's i-vector: [Front-End Factor Analysis for Speaker Verification](http://ieeexplore.ieee.org/document/5545402/)
--i-vector tutorial: http://people.csail.mit.edu/sshum/talks/ivector_tutorial_interspeech_27Aug2011.pdf
+- Najim's i-vector: [Front-End Factor Analysis for Speaker Verification](http://ieeexplore.ieee.org/document/5545402/)
+- i-vector tutorial: http://people.csail.mit.edu/sshum/talks/ivector_tutorial_interspeech_27Aug2011.pdf
 
 ## PLDA 
 Prince's PLDA: [Probabilistic Linear Discriminant Analysis for Inferences About Identity](http://ieeexplore.ieee.org/abstract/document/4409052/)
