@@ -29,6 +29,9 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 
 ## Signals 
 - Channel Compensation: [Channel Compensation for SVM Speaker Recognition](https://www.ll.mit.edu/mission/cybersec/publications/publication-files/full_papers/040531_Solomonoff.pdf)
+- Whale Signals from Duke: 
+  - [Whale vocalizations with Weyl Transform](http://ieeexplore.ieee.org/document/7178074/)
+  - [Intrinsic Structure Study of Whale Vocalization](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7761101)
 
 ## Miscellaneous 
 - Philip Guo's PhD Grind: http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf
