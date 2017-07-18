@@ -28,9 +28,9 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - Wasserstein GAN: [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - Wasserstein GAN tutorial: http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 
-## Resnet
-- paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
-- code: 
+## Deep Nets
+- Resnet paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
+- Resnet code: 
   - https://github.com/KaimingHe/deep-residual-networks
   - https://github.com/KaimingHe/resnet-1k-layers
 
