@@ -44,3 +44,4 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - Andrew Ng Discriminative vs Generative model: https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf
 - Google Creatism: [A deep-learning photographer capable of creating professional work](https://arxiv.org/pdf/1707.03491.pdf)
 - Google Enormous Data: [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/pdf/1707.02968.pdf)
+- Facebook Training ImageNet in 1 Hour: [Accurate, Large Minibatch SGD](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h5.pdf?)
