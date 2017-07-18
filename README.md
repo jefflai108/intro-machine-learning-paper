@@ -28,6 +28,12 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - Wasserstein GAN: [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - Wasserstein GAN tutorial: http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 
+## Resnet
+- paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
+- code: 
+  - https://github.com/KaimingHe/deep-residual-networks
+  - https://github.com/KaimingHe/resnet-1k-layers
+
 ## Speaker Recognition Nets
 - David Synder's xvector: [DEEP NEURAL NETWORK-BASED SPEAKER EMBEDDINGS FOR END-TO-END SPEAKER VERIFICATION](http://danielpovey.com/files/2016_slt_xvector.pdf)
 - Speaker Enhancement: [Neural Network Based Speaker Classification and Verification Systems with Enhanced Features](https://arxiv.org/pdf/1702.02289.pdf)
