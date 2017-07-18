@@ -39,7 +39,8 @@ A list of paper/tutorial I have read for understanding statistical machine learn
   - [Whale vocalizations with Weyl Transform](http://ieeexplore.ieee.org/document/7178074/)
   - [Intrinsic Structure Study of Whale Vocalization](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7761101)
 
-## Miscellaneous 
+## Miscellaneous/Casual Read
 - Philip Guo's PhD Grind: http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf
 - Andrew Ng Discriminative vs Generative model: https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf
 - Google Creatism: [A deep-learning photographer capable of creating professional work](https://arxiv.org/pdf/1707.03491.pdf)
+- Google Enormous Data: [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/pdf/1707.02968.pdf)
