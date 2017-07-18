@@ -42,3 +42,4 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 ## Miscellaneous 
 - Philip Guo's PhD Grind: http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf
 - Andrew Ng Discriminative vs Generative model: https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf
+- Google Creatism: [A deep-learning photographer capable of creating professional work](https://arxiv.org/pdf/1707.03491.pdf)
