@@ -6,6 +6,7 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - Bishop's Pattern Recognition and Machine Learning: http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 - CMU ML: http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
 - CMU MLSP: http://mlsp.cs.cmu.edu/courses/fall2016/index.html
+- Variational Inference: [Princeton CS](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 
 ## Basic Neural Network 
 - Andrew Ng Coursera: https://www.coursera.org/learn/machine-learning
