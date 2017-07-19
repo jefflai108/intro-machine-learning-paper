@@ -35,6 +35,9 @@ A list of paper/tutorial I have read for understanding statistical machine learn
   - https://github.com/KaimingHe/deep-residual-networks
   - https://github.com/KaimingHe/resnet-1k-layers
 
+## HMM
+- [Stanford CS229](http://cs229.stanford.edu/section/cs229-hmm.pdf)
+
 ## Speaker Recognition Nets
 - David Synder's xvector: [DEEP NEURAL NETWORK-BASED SPEAKER EMBEDDINGS FOR END-TO-END SPEAKER VERIFICATION](http://danielpovey.com/files/2016_slt_xvector.pdf)
 - Speaker Enhancement: [Neural Network Based Speaker Classification and Verification Systems with Enhanced Features](https://arxiv.org/pdf/1702.02289.pdf)
