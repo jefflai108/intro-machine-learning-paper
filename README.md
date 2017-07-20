@@ -13,6 +13,7 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
 - RNN+LSTM: [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/phd.pdf)
 - [Stanford CS231n](http://cs231n.stanford.edu)
+- [Neural Network Simulation](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.29657&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 ## GMM 
 - [CS 274A](http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes5b)
