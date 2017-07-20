@@ -16,6 +16,7 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 
 ## GMM 
 - [CS 274A](http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes5b)
+- [Speaker Verification Using Adapted Gaussian Mixture Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.338&rep=rep1&type=pdf)
 
 ## i-vector 
 - Najim's i-vector: [Front-End Factor Analysis for Speaker Verification](http://ieeexplore.ieee.org/document/5545402/)
