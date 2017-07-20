@@ -4,17 +4,18 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 ## Statistics 
 - Jeff Miller's Machine Learning Youtube Tutorial: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 - Bishop's Pattern Recognition and Machine Learning: http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
-- CMU ML: http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml
-- CMU MLSP: http://mlsp.cs.cmu.edu/courses/fall2016/index.html
+- [CMU ML](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [CMU MLSP](http://mlsp.cs.cmu.edu/courses/fall2016/index.html)
 - Variational Inference: [Princeton CS](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 
 ## Basic Neural Network 
-- Andrew Ng Coursera: https://www.coursera.org/learn/machine-learning
+- [Colah's Blog](http://colah.github.io)
+- [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
 - RNN+LSTM: [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/phd.pdf)
-- Stanford CS231n: http://cs231n.stanford.edu
+- [Stanford CS231n](http://cs231n.stanford.edu)
 
 ## GMM 
-- CS 274A: http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes5b
+- [CS 274A](http://www.ics.uci.edu/~smyth/courses/cs274/notes/notes5b)
 
 ## i-vector 
 - Najim's i-vector: [Front-End Factor Analysis for Speaker Verification](http://ieeexplore.ieee.org/document/5545402/)
@@ -50,8 +51,8 @@ A list of paper/tutorial I have read for understanding statistical machine learn
   - [Intrinsic Structure Study of Whale Vocalization](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7761101)
 
 ## Miscellaneous/Casual Read
-- Philip Guo's PhD Grind: http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf
-- Andrew Ng Discriminative vs Generative model: https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf
+- [Philip Guo's PhD Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
+- [Andrew Ng Discriminative vs Generative model](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 - Google Creatism: [A deep-learning photographer capable of creating professional work](https://arxiv.org/pdf/1707.03491.pdf)
 - Google Enormous Data: [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/pdf/1707.02968.pdf)
 - Facebook Training ImageNet in 1 Hour: [Accurate, Large Minibatch SGD](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h5.pdf?)
