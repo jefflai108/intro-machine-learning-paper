@@ -29,7 +29,7 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 ## GAN
 - original GAN: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 - Wasserstein GAN: [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
-- Wasserstein GAN tutorial: http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
+- [Wasserstein GAN tutorial](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 
 ## Deep Nets
 - Resnet paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
