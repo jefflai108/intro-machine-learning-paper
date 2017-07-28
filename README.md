@@ -38,6 +38,9 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - Resnet code: 
   - https://github.com/KaimingHe/deep-residual-networks
   - https://github.com/KaimingHe/resnet-1k-layers
+- [DenseNet](https://arxiv.org/abs/1608.06993)
+- [Modified DenseNet](https://arxiv.org/pdf/1707.06990.pdf)
+- [DenseNet code](https://github.com/liuzhuang13/DenseNet)
 
 ## HMM
 - [Stanford CS229](http://cs229.stanford.edu/section/cs229-hmm.pdf)
