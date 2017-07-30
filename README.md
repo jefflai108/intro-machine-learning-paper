@@ -42,6 +42,10 @@ A list of paper/tutorial I have read for understanding statistical machine learn
 - [Modified DenseNet](https://arxiv.org/pdf/1707.06990.pdf)
 - [DenseNet code](https://github.com/liuzhuang13/DenseNet)
 
+## RL 
+- [Blog post #1](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html#continuous)
+- [Blog post #2](https://lopespm.github.io/machine_learning/2016/10/06/deep-reinforcement-learning-racing-game.html#concepts)
+
 ## HMM
 - [Stanford CS229](http://cs229.stanford.edu/section/cs229-hmm.pdf)
 
